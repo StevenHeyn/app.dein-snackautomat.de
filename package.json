@@ -1,5 +1,6 @@
 {
   "name": "snackautomat-app",
+  "homepage": "https://StevenHeyn.github.io/app.dein-snackautomat.de/"
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
